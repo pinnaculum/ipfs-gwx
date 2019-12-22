@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+build/
+dist/
+eggs/
+.eggs/
+lib/
+lib64/
+*.egg-info/
+*.egg
+tmp/
+pip-log.txt

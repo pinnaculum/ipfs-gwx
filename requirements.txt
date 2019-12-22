@@ -1,0 +1,3 @@
+aiohttp>=3.6.0
+aiohttp-jinja2
+aioipfs>=0.4.3
